@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Twitter Sentiment Analysis
  CSULB Fall 2019
  
  Twitter Sentiment Analysis using project using Naive Bayes, Separable CNN, and RNN (LSTM)
